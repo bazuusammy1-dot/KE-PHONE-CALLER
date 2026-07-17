@@ -1,0 +1,6 @@
+{
+  "name": "Phone Call Simulator",
+  "description": "An interactive mobile phone calling application with preloaded character scripts, sound synthesis tones, contact list, and voicemail transcripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
